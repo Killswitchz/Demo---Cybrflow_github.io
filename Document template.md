@@ -1,4 +1,3 @@
-
 # **Policy Title**
 
 \[Company Logo\]

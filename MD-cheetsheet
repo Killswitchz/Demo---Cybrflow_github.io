@@ -1,0 +1,87 @@
+
+# Welcome to JekyllPad's Free Online Markdown Editor
+
+This powerful WYSIWYG editor supports GitHub-Flavored Markdown (GFM). Here's a showcase of its features:
+
+## Text Formatting
+
+You can make text **bold**, _italic_, ~strikethrough~, or `inline code`.
+
+## Lists
+
+### Unordered List
+
+*   Item 1
+    
+*   Item 2
+    
+    *   Subitem 2.1
+        
+    *   Subitem 2.2
+        
+
+### Ordered List
+
+1.  First item
+    
+2.  Second item
+    
+3.  Third item
+    
+
+## Task Lists
+
+*   Completed task
+    
+*   Incomplete task
+    
+
+## Headings
+
+# H1 Heading
+
+## H2 Heading
+
+### H3 Heading
+
+#### H4 Heading
+
+##### H5 Heading
+
+###### H6 Heading
+
+## Blockquotes
+
+> This is a blockquote. It can span multiple lines and can contain other Markdown elements.
+
+## Code Blocks
+
+```javascript
+function helloWorld() {
+  console.log("Hello, world!");
+}
+
+```
+
+## Tables
+
+| Header 1 | Header 2 | Header 3 |
+| --- | --- | --- |
+| Row 1, Col 1 | Row 1, Col 2 | Row 1, Col 3 |
+| Row 2, Col 1 | Row 2, Col 2 | Row 2, Col 3 |
+
+## Links
+
+[Visit JekyllPad](https://www.jekyllpad.com)
+
+## Images
+
+![Markdown Logo](https://markdown-here.com/img/icon256.png)
+
+## Horizontal Rule
+
+## YouTube Video Embedding
+
+[![Markdown Tutorial](https://img.youtube.com/vi/HUBNt18RFbo/0.jpg)](https://www.youtube.com/watch?v=HUBNt18RFbo)
+
+Start editing to see the power of our Markdown editor in action!

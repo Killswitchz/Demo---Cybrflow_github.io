@@ -1,12 +1,41 @@
 
 # **Policy Title**
 
-### Table of Contents
+\[Company Logo\]
 
-1.  Document owner
+\[Classification Label\]
 
-Here is some text containing a footnote.[^somesamplefootnote]
+## Table of Contents
 
-[^somesamplefootnote]: Here is the text of the footnote itself.
+*   Document history
+    
+*   Purpose & Scope
+    
+*   Control statements
+    
 
-[somelink]:http://somelink.com
+## Document History
+
+<table><tbody><tr><td><p><strong>Owner</strong></p></td><td><p><strong>Approval Date</strong></p></td><td><p><strong>Review Date</strong></p></td></tr><tr><td><p></p></td><td><p></p></td><td><p></p></td></tr><tr><td><p></p></td><td><p></p></td><td><p></p></td></tr><tr><td><p></p></td><td><p></p></td><td><p></p></td></tr></tbody></table>
+
+`Not Shown - Policy Content Section, based on stringency`
+
+## Purpose
+
+\[Purpose content section per document type\]
+
+## Scope
+
+\[Scope type: Logical, People, Physical, etc, based on the stringency and applicability\]
+
+## Control statements
+
+### Control Statement - 1
+
+\[XXXXXXXXX\]
+
+### Control Statement - 2
+
+\[XXXXXXXXX\]
+
+`Not Shown - MetaData`

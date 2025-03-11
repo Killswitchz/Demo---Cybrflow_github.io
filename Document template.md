@@ -1,9 +1,10 @@
+
 # **Policy Title**
 
 \[Company Logo\]
 
 \[Classification Label\]
-
+<br>
 ## Table of Contents
 
 *   Document history
@@ -11,18 +12,19 @@
 *   Purpose & Scope
     
 *   Control statements
-    
-
+<br>
 ## Document History
 
 <table><tbody><tr><td><p><strong>Owner</strong></p></td><td><p><strong>Approval Date</strong></p></td><td><p><strong>Review Date</strong></p></td></tr><tr><td><p></p></td><td><p></p></td><td><p></p></td></tr><tr><td><p></p></td><td><p></p></td><td><p></p></td></tr><tr><td><p></p></td><td><p></p></td><td><p></p></td></tr></tbody></table>
 
 `Not Shown - Policy Content Section, based on stringency`
 
+<br>
+
 ## Purpose
 
 \[Purpose content section per document type\]
-
+<br>
 ## Scope
 
 \[Scope type: Logical, People, Physical, etc, based on the stringency and applicability\]
